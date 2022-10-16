@@ -26,7 +26,7 @@ const Homepage = () => {
     dispatch(getData());
   }, []);
 
-  console.log(data);
+  // console.log(data);
 
   return (
     <>
